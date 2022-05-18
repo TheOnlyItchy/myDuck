@@ -1,3 +1,5 @@
 h1{
-    border: 0.3in solid black;
+    margin-bottom: 1in;
+    border: 0.3cm solid black;
+    vertical-align: center;
 }

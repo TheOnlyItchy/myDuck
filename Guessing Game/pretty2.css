@@ -7,3 +7,13 @@ h3{
     width: 3.35cm;
 
 }
+.game{
+    border: 0.1cm dotted rgb(142, 142, 142);
+    background-color: rgb(129, 129, 129);
+    width: 5in;
+}
+.result{
+    border: 0.1cm dotted rgb(194, 194, 194);
+    background-color: rgb(156, 156, 156);
+    width: 8in;
+}
